@@ -19,7 +19,7 @@
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final do curso em funcionamento](https://github.com/Luis-Emanuel/organo2/blob/main/readme/img_2.png?raw=true).
+[Veja o projeto final do curso em funcionamento](https://organo-v2-nt.vercel.app/).
 
 ## 📷FOTOS DO PROJETO
 <div align="center">
